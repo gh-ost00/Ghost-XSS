@@ -65,7 +65,7 @@ Results will be saved to `xss_scan_results.txt` by default, or to a file specifi
 ## ☕ Support
 
 If you find this tool useful and want to support the development, consider buying me a coffee:
-<a href="https://buymeacoffee.com/ghost_sec" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-white.png" alt="Buy Me a Coffee" width="101"></a>
+<a href="https://buymeacoffee.com/ghost_sec" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-white.png" alt="Buy Me a Coffee" width="90"></a>
 
 - Subcribe me on Youtube
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="Subscribe to my YouTube Channel" width="22"></a>
