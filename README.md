@@ -68,7 +68,7 @@ If you find this tool useful and want to support the development, consider buyin
 <a href="https://buymeacoffee.com/ghost_sec" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-white.png" alt="Buy Me a Coffee" width="105"></a>
 
 - Subcribe me on Youtube
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="Subscribe to my YouTube Channel" width="105"></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="Subscribe to my YouTube Channel" width="50"></a>
 <p style="text-align: left;">
   <img src="Screenshot2.png" alt="Ghost_scanner"/>
 </p>
