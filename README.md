@@ -7,7 +7,7 @@
 
 ## 📝 Description
 
-Ghost XSS Scanner is a powerful tool for detecting Cross-Site Scripting (XSS) vulnerabilities. It crawls a target website, identifies parameters, and injects payloads to test for potential vulnerabilities. This tool is designed for security professionals, researchers, and developers interested in web security.
+Ghost XSS Scanner is a powerful tool for detecting Cross-Site Scripting (XSS) vulnerabilities. It crawls the target website, identifies parameters, and injects payloads to test for potential vulnerabilities. It is designed to find parameters affected by (XSS)
 
 ## ➡️ Features
 
