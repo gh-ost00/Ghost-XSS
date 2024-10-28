@@ -24,8 +24,8 @@ Ghost XSS Scanner is a powerful tool for detecting Cross-Site Scripting (XSS) vu
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/username/ghost-xss-scanner.git
-   cd ghost-xss-scanner
+   git clone https://github.com/fa-rrel/Ghost-XSS.git
+   cd Ghost-XSS
    ```
 
 2. **Install the required packages:**
@@ -42,7 +42,7 @@ Ghost XSS Scanner is a powerful tool for detecting Cross-Site Scripting (XSS) vu
 ## 🚀 Usage
 
 ```bash
-python ghost_xss_scanner.py -u <target_url> -p <payload_file>
+python ghost_xss.py -u <target_url> -p <payload_file>
 ```
 
 - **`-u, --url`**: (Required) Base URL to scan for XSS vulnerabilities.
@@ -62,7 +62,7 @@ Results will be saved to `xss_scan_results.txt` by default, or to a file specifi
 ## ☕ Support
 
 If you find this tool useful and want to support the development, consider buying me a coffee:
-<a href="https://buymeacoffee.com/ghost_sec" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-white.png" alt="Buy Me a Coffee" width="110"></a>
+<a href="https://buymeacoffee.com/ghost_sec" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-white.png" alt="Buy Me a Coffee" width="105"></a>
 
 ---
 
