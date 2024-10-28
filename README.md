@@ -54,6 +54,9 @@ python ghost_xss.py -u <target_url> -p <payload_file>
 ```bash
 python ghost_xss_scanner.py -u https://example.com -p custom_payloads.txt
 ```
+<p style="text-align: left;">
+  <img src="Screenshot.png" alt="Ghost_scanner"/>
+</p>
 
 Results will be saved to `xss_scan_results.txt` by default, or to a file specified with the `-o` option.
 
