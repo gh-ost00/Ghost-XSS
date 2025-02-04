@@ -129,9 +129,9 @@ def main():
         logger.error(f"{RED}❌ Payloads file '{args.payloads}' NOT FOUND.{RESET}")
         sys.exit(1)
 
-    logger.info(f"{CYAN}🔍 [START] Searching for vulnerable parameters: {args.url}...{RESET}")
+    logger.info(f"{CYAN} [START] Searching for vulnerable parameters: {args.url}...{RESET}")
     urls = crawl_website(args.url)
-    logger.info(f"{CYAN}🔍 [INFO] Found {len(urls)} URLs to test.{RESET}")
+    logger.info(f"{CYAN} [INFO] Found {len(urls)} URLs to test.{RESET}")
 
     with concurrent.futures.ThreadPoolExecutor() as executor:
         futures = []
